@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{241A15CC-5EBF-48FC-BBB5-6F3FCBC75224}|Default">
+  <MonoDevelop.Ide.ItemProperties.Game_220of_22021 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Game of 21/Form1.vb">
+    <Files>
+      <File FileName="Game of 21/Form1.vb" Line="34" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Game of 21" expanded="True">
+            <Node name="Game of 21" expanded="True">
+              <Node name="My Project" expanded="True" />
+              <Node name="Form1.vb" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

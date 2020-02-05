@@ -1,0 +1,22 @@
+K:/Visual Basics/Game of 21/Game of 21/bin/Debug/Game of 21.exe.config
+K:/Visual Basics/Game of 21/Game of 21/bin/Debug/Game of 21.exe
+K:/Visual Basics/Game of 21/Game of 21/bin/Debug/Game of 21.pdb
+K:/Visual Basics/Game of 21/Game of 21/bin/Debug/Game of 21.xml
+K:/Visual Basics/Game of 21/Game of 21/obj/Debug/Game_of_21.Form1.resources
+K:/Visual Basics/Game of 21/Game of 21/obj/Debug/Game_of_21.Resources.resources
+K:/Visual Basics/Game of 21/Game of 21/obj/Debug/Game of 21.vbproj.GenerateResource.Cache
+K:/Visual Basics/Game of 21/Game of 21/obj/Debug/Game of 21.exe
+K:/Visual Basics/Game of 21/Game of 21/obj/Debug/Game of 21.xml
+K:/Visual Basics/Game of 21/Game of 21/obj/Debug/Game of 21.pdb
+K:/Visual Basics/Game of 21/Game of 21/obj/Debug/Game of 21.vbprojResolveAssemblyReference.cache
+/Users/sammie/Downloads/Game of 21/Game of 21/bin/Debug/Game of 21.exe.config
+/Users/sammie/Downloads/Game of 21/Game of 21/bin/Debug/Game of 21.exe
+/Users/sammie/Downloads/Game of 21/Game of 21/bin/Debug/Game of 21.pdb
+/Users/sammie/Downloads/Game of 21/Game of 21/bin/Debug/Game of 21.xml
+/Users/sammie/Downloads/Game of 21/Game of 21/obj/Debug/Game of 21.vbprojAssemblyReference.cache
+/Users/sammie/Downloads/Game of 21/Game of 21/obj/Debug/Game_of_21.Form1.resources
+/Users/sammie/Downloads/Game of 21/Game of 21/obj/Debug/Game_of_21.Resources.resources
+/Users/sammie/Downloads/Game of 21/Game of 21/obj/Debug/Game of 21.vbproj.GenerateResource.cache
+/Users/sammie/Downloads/Game of 21/Game of 21/obj/Debug/Game of 21.exe
+/Users/sammie/Downloads/Game of 21/Game of 21/obj/Debug/Game of 21.xml
+/Users/sammie/Downloads/Game of 21/Game of 21/obj/Debug/Game of 21.pdb
